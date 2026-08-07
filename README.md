@@ -13,19 +13,15 @@
 2. Executive Summary
 3. Vision
 5. Architecture
-6. Workflow
-7. Tech Stack
-8. Folder Structure
-9. Installation
-10. Usage
-11. Screenshots & Demo
-12. Benchmark
-13. Why It's Different
-14. Security
-15. Future Roadmap
-16. Contributing
-17. License
-18. Acknowledgements
+6. Tech Stack
+7. Folder Structure
+8. Installation
+9. Benchmark
+10. Why It's Different
+11. Security
+12. Future Roadmap
+13. Contributing
+14. Acknowledgements
 
 ## Project Description
 Problem: Standard Large Language Models (LLMs) struggle to independently fix complex software bugs because they lack environmental context, historical memory, and the ability to verify their own outputs.
