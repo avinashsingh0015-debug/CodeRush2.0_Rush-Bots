@@ -8,7 +8,7 @@
 + Track/Theme: Developer Tools / AI & Agentic Systems
 
 
-##📋 Table of Contents
+## 📋 Table of Contents
 1. Real-World Motivation
 2. Executive Summary
 3. Vision
@@ -50,7 +50,7 @@ None of these are hypothetical — they are the daily friction of working with A
 
 ---
 
-#🧭 Executive Summary
+# 🧭 Executive Summary
    *   Rush-Code is a model-independent, web-based agentic coding harness designed to securely intake a target repository, analyze issue descriptions, and generate code patches. Unlike raw LLMs, Rush-Code utilizes a verification-first loop: it runs local test suites (e.g., pytest) against its generated code, reads the error outputs, and iteratively revises the code until the tests pass. The platform includes a dedicated UI to view the agent's execution trace and a side-by-side ablation study comparing raw LLM outputs to our verified harness.
 
   *    Modern AI coding assistants — ChatGPT, Claude, Gemini, GitHub Copilot, Cursor — are remarkably good at producing code. They are far less reliable at proving that code works.
@@ -61,7 +61,7 @@ None of these are hypothetical — they are the daily friction of working with A
 
  ---
 
-#🔭 Vision
+# 🔭 Vision
 
   TermHarness AI is designed to behave less like a chatbot and more like a junior engineer who:
 
@@ -184,12 +184,6 @@ Contributions are welcome.
 5. Open a pull request describing the change and motivation
 
 Please open an issue first for significant changes so they can be discussed before implementation.
-
----
-
-## 📄 License
-
-Distributed under the **MIT License**. See `LICENSE` for details.
 
 ---
 
